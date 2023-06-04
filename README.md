@@ -1,4 +1,4 @@
-#### **IMAGE PROCESSING** by Akshaya Hegde
+#### **IMAGE PROCESSING** by vivek
 _Project Objective:_
 
 ```
@@ -10,7 +10,7 @@ Uploading image:
 
 - cURL for post-image
 ```
-curl --location --request POST 'http://13.127.234.41/akshaya/post-image' \
+curl --location --request POST 'http://13.127.234.41/vivek/post-image' \
 --form 'image=@"/path/to/file"' \
 --form 'timezone=""' \
 --form 'height=""' \
