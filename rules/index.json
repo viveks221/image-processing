@@ -1,0 +1,10 @@
+{
+    "default": {
+
+    },
+    "imageProcessing":{
+        "timezone":{
+            "type": "string"
+        }
+    }
+}

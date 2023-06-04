@@ -1,0 +1,17 @@
+timezone/offset
+image
+dimension(height,width)
+watermark
+placement
+
+adding timezone,watermark according to placement coordinates.
+
+thumbnails of final processed image.
+
+
+--aws
+upload and resize
+if success - delete local original image.
+if fail - keep the images. 
+signed url
+
